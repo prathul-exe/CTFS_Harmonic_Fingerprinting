@@ -1,0 +1,10 @@
+{
+    "instrument": "veena",
+    "raga": "desh",
+    "audio_file": "desh.wav",
+    "pakad": {
+        "start": 10.0,
+        "end": 30.0
+    },
+    "duration": 706.3
+}

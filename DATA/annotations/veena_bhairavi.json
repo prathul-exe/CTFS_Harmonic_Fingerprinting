@@ -1,0 +1,10 @@
+{
+    "instrument": "veena",
+    "raga": "bhairavi",
+    "audio_file": "bhairavi.wav",
+    "pakad": {
+        "start": 10.0,
+        "end": 30.0
+    },
+    "duration": 5267.490022675737
+}

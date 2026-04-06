@@ -1,0 +1,10 @@
+{
+    "instrument": "sitar",
+    "raga": "yaman",
+    "audio_file": "yaman.wav",
+    "pakad": {
+        "start": 10.0,
+        "end": 30.0
+    },
+    "duration": 1201.08
+}
